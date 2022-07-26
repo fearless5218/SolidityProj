@@ -17,32 +17,6 @@
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "x",
-				"outputs": [
-					{
-						"internalType": "int256",
-						"name": "",
-						"type": "int256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "y",
-				"outputs": [
-					{
-						"internalType": "int256",
-						"name": "",
-						"type": "int256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -58,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Desktop/SolidityProj/inheritance.sol": "A"
+			"Desktop/SolidityProj/inheritance.sol": "baseContract"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
